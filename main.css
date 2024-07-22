@@ -85,7 +85,7 @@
     justify-content: flex-end;
     align-items: center;
     background-position: center;
-    
+
 }
 
 .hero__textbox {
@@ -125,4 +125,49 @@
 .swiper-slide {
     display: flex;
     justify-content: center;
+}
+
+.Intro {
+    background-color: black;
+}
+
+.mirage__wrapper {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #1B1E27;
+    padding: 30px 30px 188px 30px;
+}
+
+.intro__title {
+    width: 323px;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.intro__text {
+    width: 323px;
+    color: rgb(191, 191, 191);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.mirage__box {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.footer {
+    padding: 20px 0;
+    background: rgb(39, 44, 61);
+}
+
+.footer__wrapper {
+    display: flex;
+    justify-content: space-between;
 }
